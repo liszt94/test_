@@ -1,6 +1,7 @@
 
 import paramsIn 
 
+
 size = len(paramsIn.palabra)
 
 
